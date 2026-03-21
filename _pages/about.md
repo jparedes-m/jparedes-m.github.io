@@ -13,7 +13,7 @@ profile:
     <p>Viale delle Terme di Caracalla</p>
     <p>Rome, Italy</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
