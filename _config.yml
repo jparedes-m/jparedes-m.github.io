@@ -24,7 +24,6 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 ## Redes
-email: jorge.paredes@bse.eu
 github_username: jparedes-m
 linkedin_username: jparedes-m
 
