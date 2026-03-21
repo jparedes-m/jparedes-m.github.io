@@ -6,7 +6,7 @@ subtitle: Food and Agriculture Organization (FAO) · Rome, Italy
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile Pic - Jorge.jpg 
   image_circular: false
   more_info: >
     <p>Food and Agriculture Organization</p>
