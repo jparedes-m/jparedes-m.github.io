@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Food and Agriculture Organization (FAO) · Rome, Italy
+subtitle: Quito, Ecuador · Rome, Italy
 
 profile:
   align: right
   image: profile.jpg 
   image_circular: false
   more_info: >
-    <p>Food and Agriculture Organization</p>
-    <p>Viale delle Terme di Caracalla</p>
-    <p>Rome, Italy</p>
+  <p style="font-size: 0.8em;">Food and Agriculture Organization</p>
+  <p style="font-size: 0.8em;">Viale delle Terme di Caracalla</p>
+  <p style="font-size: 0.8em;">Rome, Italy</p>
 
 selected_papers: false
 social: true
