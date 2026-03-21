@@ -1,13 +1,10 @@
 ---
-layout: cv
+layout: page
 title: CV
 nav: true
 nav_order: 3
+permalink: /cv/
 ---
 
-<div class="cv">
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="float-right">
-    <i class="fas fa-file-pdf"></i>
-  </a>
-  {% include cv/cv.liquid %}
-</div>
+<iframe src="/assets/pdf/cv.pdf" width="100%" height="800px" style="border:none;">
+</iframe>
