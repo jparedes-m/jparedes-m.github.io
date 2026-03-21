@@ -8,10 +8,7 @@ profile:
   align: right
   image: profile.jpg 
   image_circular: false
-  more_info: >
-  <p style="font-size: 0.8em;">Food and Agriculture Organization</p>
-  <p style="font-size: 0.8em;">Viale delle Terme di Caracalla</p>
-  <p style="font-size: 0.8em;">Rome, Italy</p>
+  more_info: 
 
 selected_papers: false
 social: true
