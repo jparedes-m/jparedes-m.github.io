@@ -37,3 +37,11 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+// Year badge: move to right with divider
+.bibliography .year {
+  text-align: right;
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 0.3rem;
+  margin-top: 0.5rem;
+}
