@@ -4,7 +4,7 @@
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: jorge.paredes@bse.eu # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 github_username: jparedes-m
 linkedin_username: jparedes-m
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
