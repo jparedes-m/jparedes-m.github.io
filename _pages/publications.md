@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-### Working Papers & Publications
+### Working Papers
 
 1. "Nudging the Agents: Does It Reduce Discrimination Against Migrants in the House Rental Market?" with W. Zanoni, L. Díaz, E. Díaz, and P. Acevedo. [IDB Working Paper No. IDB-WP-1517](https://doi.org/10.18235/0005242), November 2023.
 2. "Emerging Markets Bond Index Performance and Sovereign Default: The Case of Ecuador." with W. Zanoni, E. Díaz, L. Andrian, and J.L. Maldonado. [IDB Working Paper No. IDB-WP-1569](https://doi.org/10.18235/0005676), March 2024.
