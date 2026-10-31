@@ -22,8 +22,10 @@ latest_posts:
   limit: 3
 ---
 
-Welcome! I am an Economist Intern at the [Food and Agriculture Organization (FAO)](https://www.fao.org) of the United Nations within the Agrifood Economics and Policy (ESA) Division. My work focuses on monitoring agricultural policy indicators and analyzing price incentives to support global food security. 
+Welcome! I am an Economist Intern at the [Food and Agriculture Organization (FAO)](https://www.fao.org) of the United Nations, in the Agrifood Economics and Policy (ESA) Division in Rome. I study how shocks and policy shape outcomes in developing economies, using causal inference and time-series methods on administrative, survey, and satellite data.
 
-I hold a Master’s degree in Economics from the [Barcelona School of Economics (BSE)](https://bse.eu) and a Bachelor’s degree in Economics from [Universidad San Francisco de Quito (USFQ)](https://www.usfq.edu.ec). I previously worked as a Research Assistant for Ecuador's Economics Senior Specialist at the [Inter-American Development Bank (IDB)](https://www.iadb.org), where I co-authored studies on labor and housing market discrimination and the impact of sovereign defaults in emerging markets.
+At FAO, I build a state-space model that nowcasts crop yields from satellite and weather data, estimate the effects of El Niño on crops across agroecological zones, and study how agricultural support policies affect greenhouse gas emissions. Before FAO, I spent three years at the [Inter-American Development Bank (IDB)](https://www.iadb.org), where I co-authored working papers on discrimination against migrants and women in Latin American housing and labor markets and on the effects of Ecuador's 2008 sovereign default.
 
-My research focuses on development economics, agricultural economics, education, and gender economics.  Originally from Ecuador, I specialize in applied econometrics, causal inference, and time-series modeling.
+I hold an MSc in Economics and Finance from the [Barcelona School of Economics (BSE)](https://bse.eu) and a BSc in Economics from [Universidad San Francisco de Quito (USFQ)](https://www.usfq.edu.ec). My goal is a PhD in economics.
+
+**Research interests:** applied microeconometrics, causal inference, time series and nowcasting, development economics, agricultural and climate economics, political economy.
